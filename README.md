@@ -103,4 +103,3 @@ We've all been there: You apply for a job you are perfect for, but you get rejec
 **Built by Subhaga Hansamana**
 
 * **GitHub:** [Subhaga2000](https://github.com/Subhaga2000)
-* **University:** SLTC Research University
