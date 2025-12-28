@@ -22,7 +22,6 @@ We've all been there: You apply for a job you are perfect for, but you get rejec
 ## 📸 Project Screenshot
 
 ![App Screenshot](screenshot.png)
-*(Note: Upload a screenshot of your app to your repo and name it screenshot.png)*
 
 ---
 
